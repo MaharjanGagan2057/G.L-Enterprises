@@ -1,14 +1,22 @@
 header{
-    background-color: beige;
+    color: beige;
 }
 
-
+h1{
+    text-align: center;
+    
+    color: rgb(29, 26, 22);
+  
+}
+h2{
+    text-align: center;
+}
 
 
 .product{ 
 margin: auto;
 padding: auto;
-color: rgb(19, 18, 18);
+color: rgb(29, 21, 21);
 align-items: center;
     
 
@@ -25,4 +33,10 @@ button{
 img {
     transition: 5ms;
      cursor:zoom-in;
+     
+}
+footer{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 40px;
 }
