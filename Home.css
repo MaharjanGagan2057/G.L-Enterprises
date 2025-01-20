@@ -1,0 +1,28 @@
+header{
+    background-color: beige;
+}
+
+
+
+
+.product{ 
+margin: auto;
+padding: auto;
+color: rgb(19, 18, 18);
+align-items: center;
+    
+
+}
+
+button{
+    background-color: rgb(46, 197, 101);
+    color: rgb(238, 239, 237);
+    margin: auto;
+    padding: auto;  
+
+}
+
+img {
+    transition: 5ms;
+     cursor:zoom-in;
+}
